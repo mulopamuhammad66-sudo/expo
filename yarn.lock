@@ -8499,6 +8499,11 @@ fdir@^6.5.0:
   resolved "https://registry.yarnpkg.com/fdir/-/fdir-6.5.0.tgz#ed2ab967a331ade62f18d077dae192684d50d350"
   integrity sha512-tIbYtZbucOs0BRGqPJkshJUYdL+SDH7dVM8gjy+ERp3WAUjLEFJE+02kanyHtwjWOnwrKYBiwAmM0p4kLJAnXg==
 
+fetch-nodeshim@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/fetch-nodeshim/-/fetch-nodeshim-0.3.0.tgz#3a13a09df972cc4e40efd0a5ca4df9d1fe2148a3"
+  integrity sha512-M5+Wjt8QuAfvdJlqq3W4/JNee3kAP0sFa+MvoQKIVo8b1UMedTNCORgYCBeqo4a4I4c3WeJc2j3W1x6leJEEoA==
+
 fetch-retry@^4.1.1:
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/fetch-retry/-/fetch-retry-4.1.1.tgz#fafe0bb22b54f4d0a9c788dff6dd7f8673ca63f3"
